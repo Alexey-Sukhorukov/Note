@@ -1,2 +1,7 @@
 old/
+build/
+dist/
+Sources/
+tested/
 *.db
+*.spec
